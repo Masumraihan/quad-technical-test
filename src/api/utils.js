@@ -6,7 +6,6 @@ export const getProductsData = async () => {
     const res = await axios.get(
       "http://www.api.technicaltest.quadtheoryltd.com/api/Item?page=1&pageSize=10",
     );
-    //const result = await res.json();
     return await res.data;
   } catch (error) {
     toast.error("Failed to fetch products");
