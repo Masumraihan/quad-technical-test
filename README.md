@@ -9,7 +9,6 @@ This project was bootstrapped with Vite and includes various technologies and de
 - **@headlessui/react** - Version 1.7.17
 - **swiper** - Version 11.0.5
 
-
 ### Getting Started
 
 1. Install dependencies: `npm install`
@@ -23,3 +22,5 @@ This project was bootstrapped with Vite and includes various technologies and de
 - Customize ESLint configurations in `.eslintrc` for specific linting needs.
 - Tailwind CSS can be customized using `tailwind.config.js`.
 - Explore Vite's documentation for more advanced configurations and features.
+
+# live link :https://dynamic-rolypoly-1b7aae.netlify.app/
